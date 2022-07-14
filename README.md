@@ -11,7 +11,7 @@ A web app that aims to improve students' study habits using Linear Regression!
 
 <img width="698" alt="image" src="https://user-images.githubusercontent.com/77274093/179047337-fa94fe6b-a2ff-49a8-8d5e-d5b467a00d7b.png">
 
-## Usage Instructions
+## Usage
 1. Open the left sidebar and toggle the scrollbars according to your or your student's information
      
      * Refer to the legend via the [URL in the sidebar](shorturl.at/cfUY7) or the `MSCI 436 Student Grade ML Model - Legend.pdf` file when making your selections
