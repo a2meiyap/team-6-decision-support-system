@@ -17,8 +17,8 @@ A web app that aims to improve students' study habits using Linear Regression!
      
      * Refer to the legend via the [URL in the sidebar](shorturl.at/cfUY7) or the `MSCI 436 Student Grade ML Model - Legend.pdf` file when making your selections
 
-2. If there are any parameters that you don't want to take into consideration (e.g. Age), select the variable under the Additional Preprocessing Section
-3. View the user input parameters that you've selected in the generated table and confirm that they're accurate
+2. If there are any parameters that you don't want to take into consideration (e.g. Age), select the variable(s) under the Additional Preprocessing Section
+3. View the user input parameters that you've selected in the generated table and confirm that they are correct
 4. Configure training parameters (i.e. validation dataset size, random seed value) to alter model bias and accuracy
 5. Understand the outputted factor that has the most significant impact on your grades and make use of that in your upcoming tests
 6. Receive your expected grade! 
