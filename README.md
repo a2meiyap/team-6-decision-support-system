@@ -1,2 +1,3 @@
-# team-6-decision-support-system
-Team 6 - Decision Support System
+# Team 6's Decision Support System
+
+A web app that aims to improve students' study habits using Linear Regression!
