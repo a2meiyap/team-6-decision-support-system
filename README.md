@@ -15,7 +15,7 @@ A web app that aims to improve students' study habits using Linear Regression!
 ## Usage Instructions
 1. Open the left sidebar and toggle the scrollbars according to your or your student's information
      
-     * Refer to the legend via the URL in the sidebar or the `MSCI 436 Student Grade ML Model - Legend.pdf` file when making your selections
+     * Refer to the legend via the [URL in the sidebar](shorturl.at/cfUY7) or the `MSCI 436 Student Grade ML Model - Legend.pdf` file when making your selections
 
 2. If there are any parameters that you don't want to take into consideration (e.g. Age), select the variable under the Additional Preprocessing Section
 3. View the user input parameters that you've selected in the generated table and confirm that they're accurate
