@@ -11,7 +11,7 @@ A web app that aims to improve students' study habits using Linear Regression!
 
 ## Application Setup
 
-1. Download all files to a common working directory
+1. Download all files and save them in a common working directory
 2. Open the Terminal in any IDE of your choice (e.g. VS Code, PyCharm)
 3. Run the command `streamlit run msci_436_group_6_UI.py` to launch the web app in your local host
 
